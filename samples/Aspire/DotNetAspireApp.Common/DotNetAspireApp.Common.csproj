@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="./../../../Global.Build.props" />
+
+
+  <ItemGroup>
+    <Folder Include="Messages\Events\" />
+  </ItemGroup>
+
+</Project>
